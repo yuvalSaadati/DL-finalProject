@@ -29,8 +29,7 @@ This project focuses on solving medical image classification and anomaly detecti
    - Generated heatmaps with occlusion to analyze and visualize the regions of interest for both normal and pneumonia images.
 
 ## Instructions
-
-1. **Setup and Dependencies**:
-   - Foloow the instruction in trai and test files.
+**Setup and Dependencies**:
+   - Follow the instruction in train and test files.
    - Use Google collab to execute the provided notebooks.
 
