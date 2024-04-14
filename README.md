@@ -31,20 +31,6 @@ This project focuses on solving medical image classification and anomaly detecti
 ## Instructions
 
 1. **Setup and Dependencies**:
-   - Ensure Python and required libraries (e.g., PyTorch, scikit-learn, matplotlib) are installed.
-   - Use Jupyter Notebook or another development environment to execute the provided scripts and notebooks.
-
-2. **Data Preparation**:
-   - Organize the dataset into appropriate directories for training, validation, and testing.
-   - Ensure the dataset includes categories for binary (healthy/sick) and multi-class (healthy/bacterial pneumonia/viral pneumonia) classification.
-
-3. **Model Training and Evaluation**:
-   - Train the models using appropriate hyperparameters and architectures specified for each task.
-   - Evaluate model performance using metrics such as accuracy, precision, recall, and F1-score.
-
-4. **Anomaly Detection and Explainability**:
-   - Implement the anomaly detection method (autoencoder) and explainability technique (heatmap) following the described approach.
-   - Document and visualize the results to understand model behavior and performance comprehensively.
-
-Explore different models and methods to optimize performance and gain valuable insights into medical image analysis and anomaly detection.
+   - Foloow the instruction in trai and test files.
+   - Use Google collab to execute the provided notebooks.
 
